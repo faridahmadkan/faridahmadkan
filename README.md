@@ -58,7 +58,7 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faridahmadkan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
+[![committers.top badge](https://user-badge.committers.top/afghanistan_public/faridahmadkan.svg)](https://user-badge.committers.top/afghanistan_public/faridahmadkan)
 ---
 
 ### 🌐 Let's Connect
