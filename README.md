@@ -88,5 +88,3 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
 
 ---
 
-> **📌 Note:** The typing animation above is powered by an external service.  
-> The Afghanistan committers badge updates automatically based on your public contributions.
