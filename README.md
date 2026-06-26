@@ -58,13 +58,23 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faridahmadkan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-[![committers.top badge](https://user-badge.committers.top/afghanistan_public/faridahmadkan.svg)](https://user-badge.committers.top/afghanistan_public/faridahmadkan)
+
+<!-- Afghanistan Committers Badge - Fixed URL -->
+<p align="center">
+  <a href="https://user-badge.committers.top/afghanistan_public/faridahmadkan">
+    <img src="https://user-badge.committers.top/afghanistan_public/faridahmadkan.svg" alt="committers.top badge" />
+  </a>
+</p>
+
 ---
 
 ### 🌐 Let's Connect
 
 | Platform | Link |
 |----------|------|
+| 🎵 **TikTok** | [@king_farid1](https://www.tiktok.com/@king_farid1) |
+| 📷 **Instagram** | [@farid.ahmad.k](https://www.instagram.com/farid.ahmad.k/) |
+| 👍 **Facebook** | [Farid Ahmad Khan](https://www.facebook.com/farid.ahmad.k) |
 | 💻 **Website** | [khansoftware.cc.cd](https://khansoftware.cc.cd) |
 | 📧 **Email** | [faridahmadkhanofficial@gmail.com](mailto:faridahmadkhanofficial@gmail.com) |
 | 💬 **WhatsApp** | [+93731916405](https://wa.me/93731916405) |
@@ -78,3 +88,5 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
 
 ---
 
+> **📌 Note:** The typing animation above is powered by an external service.  
+> The Afghanistan committers badge updates automatically based on your public contributions.
