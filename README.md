@@ -8,48 +8,48 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
 Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech professional with a passion for building secure, scalable, and creative digital solutions. From writing clean Python code to deploying online radio stations, I enjoy tackling challenges across the full stack and beyond.
 
-- 🔭 I'm currently working on **full-stack web projects & security hardening**
-- 🌱 I'm always learning: **DevSecOps, cloud infrastructure, and advanced networking**
-- 👯 I'm open to collaborating on **open-source security tools & web apps**
-- 📫 Reach me via my website: [khansoftware.cc.cd](https://khansoftware.cc.cd)
-- ⚡ Fun fact: I can spin up a radio station server faster than you can say "streaming"!
+- I'm currently working on full-stack web projects & security hardening
+- I'm always learning: DevSecOps, cloud infrastructure, and advanced networking
+- I'm open to collaborating on open-source security tools & web apps
+- Reach me via my website: [khansoftware.cc.cd](https://khansoftware.cc.cd)
+- Fun fact: I can spin up a radio station server faster than you can say "streaming"!
 
 ---
 
-### 🛠️ Core Competencies
+### Core Competencies
 
 | Area | Skills & Technologies |
 |------|------------------------|
-| **Programming** | Python (Django, Flask, automation, scripting) |
-| **Web Development** | HTML, CSS, JavaScript, Bootstrap, React (basic), REST APIs |
-| **Web Security** | OWASP Top 10, vulnerability assessment, penetration testing basics, secure coding |
-| **Server & DevOps** | Linux (Ubuntu/CentOS), Nginx/Apache, Docker, CI/CD pipelines, firewall configuration |
-| **Radio & Streaming** | Icecast, SHOUTcast, Liquidsoap, audio encoding, stream monitoring |
-| **Testing & QA** | Unit testing (PyTest), integration testing, load testing (Locust), network diagnostics |
+| Programming | Python (Django, Flask, automation, scripting) |
+| Web Development | HTML, CSS, JavaScript, Bootstrap, React (basic), REST APIs |
+| Web Security | OWASP Top 10, vulnerability assessment, penetration testing basics, secure coding |
+| Server & DevOps | Linux (Ubuntu/CentOS), Nginx/Apache, Docker, CI/CD pipelines, firewall configuration |
+| Radio & Streaming | Icecast, SHOUTcast, Liquidsoap, audio encoding, stream monitoring |
+| Testing & QA | Unit testing (PyTest), integration testing, load testing (Locust), network diagnostics |
 
 ---
 
-### 💼 What I Bring to the Table
+### What I Bring to the Table
 
-- **🐍 Python Developer** – Crafting efficient backends, automation scripts, and data processing pipelines.
-- **🎨 Web Designer & Developer** – Building responsive, user-friendly websites with modern UI/UX principles.
-- **📻 Radio Station Deployment** – End-to-end setup of online streaming servers with high availability.
-- **🔒 Web Security Professional** – Identifying and mitigating security risks to protect data and infrastructure.
-- **⚙️ Server Testing Specialist** – Stress-testing, performance tuning, and ensuring system reliability.
+- Python Developer – Crafting efficient backends, automation scripts, and data processing pipelines.
+- Web Designer & Developer – Building responsive, user-friendly websites with modern UI/UX principles.
+- Radio Station Deployment – End-to-end setup of online streaming servers with high availability.
+- Web Security Professional – Identifying and mitigating security risks to protect data and infrastructure.
+- Server Testing Specialist – Stress-testing, performance tuning, and ensuring system reliability.
 
 ---
 
-### 🚀 Featured Projects (Coming Soon)
+### Featured Projects (Coming Soon)
 
 > *I'm currently curating my public portfolio. Stay tuned for open-source contributions and demo projects!*
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faridahmadkan&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -68,25 +68,25 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
 
 ---
 
-### 🌐 Let's Connect
+### Let's Connect
 
 | Platform | Link |
 |----------|------|
-| 🎵 **TikTok** | [@king_farid1](https://www.tiktok.com/@king_farid1) |
-| 📷 **Instagram** | [@farid.ahmad.k](https://www.instagram.com/farid.ahmad.k/) |
-| 👍 **Facebook** | [Farid Ahmad Khan](https://www.facebook.com/farid.ahmad.k) |
-| 💬 **Telegram** | [@khansoftware](https://t.me/khansoftware) |
-| 💻 **Website** | [khansoftware.cc.cd](https://khansoftware.cc.cd) |
-| 📧 **Email** | [faridahmadkhanofficial@gmail.com](mailto:faridahmadkhanofficial@gmail.com) |
-| 💬 **WhatsApp** | [+93731916405](https://wa.me/93731916405) |
-| 🐙 **GitHub** | [github.com/faridahmadkan](https://github.com/faridahmadkan) |
+| TikTok | [@king_farid1](https://www.tiktok.com/@king_farid1) |
+| Instagram | [@farid.ahmad.k](https://www.instagram.com/farid.ahmad.k/) |
+| Facebook | [Farid Ahmad Khan](https://www.facebook.com/farid.ahmad.kan) |
+| Telegram | [@khansoftware](https://t.me/khansoftware) |
+| Website | [khansoftware.cc.cd](https://khansoftware.cc.cd) |
+| Email | [faridahmadkhanofficial@gmail.com](mailto:faridahmadkhanofficial@gmail.com) |
+| WhatsApp | [+93731916405](https://wa.me/93731916405) |
+| GitHub | [github.com/faridahmadkan](https://github.com/faridahmadkan) |
 
 ---
 
-### 🔗 Quick Connect with Badges
+### Quick Connect with Badges
 
 <p align="center">
-  <a href="https://www.facebook.com/farid.ahmad.k">
+  <a href="https://www.facebook.com/farid.ahmad.kan">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://t.me/khansoftware">
