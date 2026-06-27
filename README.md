@@ -75,6 +75,7 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
 | 🎵 **TikTok** | [@king_farid1](https://www.tiktok.com/@king_farid1) |
 | 📷 **Instagram** | [@farid.ahmad.k](https://www.instagram.com/farid.ahmad.k/) |
 | 👍 **Facebook** | [Farid Ahmad Khan](https://www.facebook.com/farid.ahmad.k) |
+| 💬 **Telegram** | [@khansoftware](https://t.me/khansoftware) |
 | 💻 **Website** | [khansoftware.cc.cd](https://khansoftware.cc.cd) |
 | 📧 **Email** | [faridahmadkhanofficial@gmail.com](mailto:faridahmadkhanofficial@gmail.com) |
 | 💬 **WhatsApp** | [+93731916405](https://wa.me/93731916405) |
@@ -82,9 +83,28 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
 
 ---
 
+### 🔗 Quick Connect with Badges
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faridahmadkan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://www.facebook.com/farid.ahmad.k">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://t.me/khansoftware">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.instagram.com/farid.ahmad.k/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@king_farid1">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://wa.me/93731916405">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=faridahmadkan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
