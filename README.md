@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Farid%20Ahmad%20Khan&fontSize=50&fontAlignY=35&desc=Python%20Developer%20%7C%20Security%20Professional&descAlignY=55" />
+</p>
+
 <!--
   Animated "Typing" effect using a popular GitHub profile README widget.
   This creates a dynamic text animation when someone visits your profile.
@@ -8,15 +12,32 @@
 
 ---
 
+### Professional Summary
+
+Results-driven Python Developer and Web Security Professional with extensive experience in building secure, scalable web applications and deploying high-availability streaming solutions. Proven expertise in full-stack development, vulnerability assessment, and server infrastructure optimization. Passionate about delivering clean code and robust security implementations across diverse technical domains.
+
+---
+
 ### About Me
 
 Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech professional with a passion for building secure, scalable, and creative digital solutions. From writing clean Python code to deploying online radio stations, I enjoy tackling challenges across the full stack and beyond.
 
-- I'm currently working on full-stack web projects & security hardening
-- I'm always learning: DevSecOps, cloud infrastructure, and advanced networking
-- I'm open to collaborating on open-source security tools & web apps
-- Reach me via my website: [khansoftware.cc.cd](https://khansoftware.cc.cd)
-- Fun fact: I can spin up a radio station server faster than you can say "streaming"!
+- 🔭 I'm currently working on full-stack web projects & security hardening
+- 🌱 I'm always learning: DevSecOps, cloud infrastructure, and advanced networking
+- 👯 I'm open to collaborating on open-source security tools & web apps
+- 📫 Reach me via my website: [khansoftware.cc.cd](https://khansoftware.cc.cd)
+- ⚡ Fun fact: I can spin up a radio station server faster than you can say "streaming"!
+
+---
+
+### Experience
+
+| Role | Company/Project | Duration |
+|------|-----------------|----------|
+| Python Developer | Freelance | 2020 - Present |
+| Web Security Consultant | Various Clients | 2021 - Present |
+| Radio Streaming Engineer | Independent Projects | 2022 - Present |
+| Server Testing Specialist | Freelance | 2020 - Present |
 
 ---
 
@@ -33,6 +54,52 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
 
 ---
 
+### Technical Skills
+
+| Skill | Level |
+|-------|-------|
+| Python | ██████████ 90% |
+| Web Development | █████████░ 85% |
+| Web Security | ████████░░ 80% |
+| Server Administration | █████████░ 85% |
+| Radio Streaming | ████████░░ 75% |
+| DevOps | ██████░░░░ 65% |
+
+---
+
+### Tech Stack
+
+#### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
+#### Frameworks & Libraries
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+
+#### Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+
+---
+
+### Certifications & Badges
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
+
+---
+
 ### What I Bring to the Table
 
 - Python Developer – Crafting efficient backends, automation scripts, and data processing pipelines.
@@ -46,6 +113,14 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
 ### Featured Projects (Coming Soon)
 
 > *I'm currently curating my public portfolio. Stay tuned for open-source contributions and demo projects!*
+
+---
+
+### GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=faridahmadkan&theme=radical&no-frame=true&row=2&column=4" />
+</p>
 
 ---
 
@@ -98,6 +173,11 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
 </p>
 
 ---
+
+<p align="center">
+  <b>Built with ❤️ by Farid Ahmad Khan</b><br>
+  <i>© 2026 All Rights Reserved</i>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=faridahmadkan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
