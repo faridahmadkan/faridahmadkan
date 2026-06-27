@@ -49,6 +49,7 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
 | Web Development | HTML, CSS, JavaScript, Bootstrap, React (basic), REST APIs |
 | Web Security | OWASP Top 10, vulnerability assessment, penetration testing basics, secure coding |
 | Server & DevOps | Linux (Ubuntu/CentOS), Nginx/Apache, Docker, CI/CD pipelines, firewall configuration |
+| Deployment | Self-hosting, Render, Railway, Vercel, AWS, Azure, and more |
 | Radio & Streaming | Icecast, SHOUTcast, Liquidsoap, audio encoding, stream monitoring |
 | Testing & QA | Unit testing (PyTest), integration testing, load testing (Locust), network diagnostics |
 
@@ -62,6 +63,7 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
 | Web Development | █████████░ 85% |
 | Web Security | ████████░░ 80% |
 | Server Administration | █████████░ 85% |
+| Cloud Deployment | ████████░░ 80% |
 | Radio Streaming | ████████░░ 75% |
 | DevOps | ██████░░░░ 65% |
 
@@ -86,6 +88,13 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
+#### Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=flat&logo=railway&logoColor=white)
+
 ---
 
 ### Certifications & Badges
@@ -96,6 +105,8 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
 
 ---
@@ -107,6 +118,7 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
 - Radio Station Deployment – End-to-end setup of online streaming servers with high availability.
 - Web Security Professional – Identifying and mitigating security risks to protect data and infrastructure.
 - Server Testing Specialist – Stress-testing, performance tuning, and ensuring system reliability.
+- Cloud Deployment Expert – Deploying applications on self-hosting, Render, Railway, Vercel, AWS, Azure, and more.
 
 ---
 
