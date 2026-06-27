@@ -22,11 +22,11 @@ Results-driven Python Developer and Web Security Professional with extensive exp
 
 Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech professional with a passion for building secure, scalable, and creative digital solutions. From writing clean Python code to deploying online radio stations, I enjoy tackling challenges across the full stack and beyond.
 
-- 🔭 I'm currently working on full-stack web projects & security hardening
-- 🌱 I'm always learning: DevSecOps, cloud infrastructure, and advanced networking
-- 👯 I'm open to collaborating on open-source security tools & web apps
-- 📫 Reach me via my website: [khansoftware.cc.cd](https://khansoftware.cc.cd)
-- ⚡ Fun fact: I can spin up a radio station server faster than you can say "streaming"!
+- I'm currently working on full-stack web projects & security hardening
+- I'm always learning: DevSecOps, cloud infrastructure, and advanced networking
+- I'm open to collaborating on open-source security tools & web apps
+- Reach me via my website: [khansoftware.cc.cd](https://khansoftware.cc.cd)
+- Fun fact: I can spin up a radio station server faster than you can say "streaming"!
 
 ---
 
@@ -34,10 +34,10 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
 
 | Role | Company/Project | Duration |
 |------|-----------------|----------|
-| Python Developer | Freelance | 2020 - Present |
-| Web Security Consultant | Various Clients | 2021 - Present |
-| Radio Streaming Engineer | Independent Projects | 2022 - Present |
-| Server Testing Specialist | Freelance | 2020 - Present |
+| Python Developer | Freelance | 2024 - Present |
+| Web Security Consultant | Various Clients | 2024 - Present |
+| Radio Streaming Engineer | Independent Projects | 2024 - Present |
+| Server Testing Specialist | Freelance | 2024 - Present |
 
 ---
 
@@ -113,14 +113,6 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
 ### Featured Projects (Coming Soon)
 
 > *I'm currently curating my public portfolio. Stay tuned for open-source contributions and demo projects!*
-
----
-
-### GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faridahmadkan&theme=radical&no-frame=true&row=2&column=4" />
-</p>
 
 ---
 
