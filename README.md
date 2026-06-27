@@ -83,7 +83,7 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
 
 ---
 
-### Quick Connect with Badges
+### Quick Connect
 
 <p align="center">
   <a href="https://www.facebook.com/farid.ahmad.kan">
