@@ -68,22 +68,7 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
 
 ---
 
-### Let's Connect
-
-| Platform | Link |
-|----------|------|
-| TikTok | [@king_farid1](https://www.tiktok.com/@king_farid1) |
-| Instagram | [@farid.ahmad.k](https://www.instagram.com/farid.ahmad.k/) |
-| Facebook | [Farid Ahmad Khan](https://www.facebook.com/farid.ahmad.kan) |
-| Telegram | [@khansoftware](https://t.me/khansoftware) |
-| Website | [khansoftware.cc.cd](https://khansoftware.cc.cd) |
-| Email | [faridahmadkhanofficial@gmail.com](mailto:faridahmadkhanofficial@gmail.com) |
-| WhatsApp | [+93731916405](https://wa.me/93731916405) |
-| GitHub | [github.com/faridahmadkan](https://github.com/faridahmadkan) |
-
----
-
-### Quick Connect
+### Connect With Me
 
 <p align="center">
   <a href="https://www.facebook.com/farid.ahmad.kan">
@@ -100,6 +85,15 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
   </a>
   <a href="https://wa.me/93731916405">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://khansoftware.cc.cd">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:faridahmadkhanofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/faridahmadkan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
