@@ -36,8 +36,8 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
 |------|-----------------|----------|
 | Python Developer | Freelance | 2024 - Present |
 | Web Security Consultant | Various Clients | 2024 - Present |
-| Radio Streaming Engineer | Independent Projects | 2024 - Present |
-| Server Testing Specialist | Freelance | 2024 - Present |
+| Radio Streaming Engineer | Independent Projects | 2026 - Present |
+| Server Testing Specialist | Freelance | 2026 - Present |
 
 ---
 
