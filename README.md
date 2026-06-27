@@ -49,7 +49,7 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
 | Web Development | HTML, CSS, JavaScript, Bootstrap, React (basic), REST APIs |
 | Web Security | OWASP Top 10, vulnerability assessment, penetration testing basics, secure coding |
 | Server & DevOps | Linux (Ubuntu/CentOS), Nginx/Apache, Docker, CI/CD pipelines, firewall configuration |
-| Deployment | Self-hosting, Render, Railway, Vercel, AWS, Azure, and more |
+| Deployment | Self-hosting, Render, Railway, Vercel, AWS, Azure, Netlify |
 | Radio & Streaming | Icecast, SHOUTcast, Liquidsoap, audio encoding, stream monitoring |
 | Testing & QA | Unit testing (PyTest), integration testing, load testing (Locust), network diagnostics |
 
