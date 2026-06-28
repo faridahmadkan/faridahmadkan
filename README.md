@@ -128,17 +128,23 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats (Real-time)
 
+<!-- These widgets update automatically every time your profile is viewed -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faridahmadkan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- Main Stats - Shows your real rank once GitHub API syncs -->
+  <img src="https://github-readme-stats.vercel.app/api?username=faridahmadkan&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
   <br/>
+  
+  <!-- Streak Stats - Shows your contribution streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faridahmadkan&theme=radical" alt="GitHub Streak" />
   <br/>
+  
+  <!-- Top Languages - Shows your most used languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faridahmadkan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<!-- Afghanistan Committers Badge - Fixed URL -->
+<!-- Afghanistan Committers Badge - Shows your rank in Afghanistan -->
 <p align="center">
   <a href="https://user-badge.committers.top/afghanistan_public/faridahmadkan">
     <img src="https://user-badge.committers.top/afghanistan_public/faridahmadkan.svg" alt="committers.top badge" />
