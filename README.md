@@ -14,7 +14,7 @@
 
 ### Professional Summary
 
-Results-driven Python Developer and Web Security Professional with extensive experience in building secure, scalable web applications and deploying high-availability streaming solutions. Proven expertise in full-stack development, vulnerability assessment, and server infrastructure optimization. Passionate about delivering clean code and robust security implementations across diverse technical domains.
+Results driven Python Developer and Web Security Professional with extensive experience in building secure, scalable web applications and deploying high-availability streaming solutions. Proven expertise in full-stack development, vulnerability assessment, and server infrastructure optimization. Passionate about delivering clean code and robust security implementations across diverse technical domains.
 
 ---
 
