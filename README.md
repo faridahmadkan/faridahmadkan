@@ -128,7 +128,7 @@ Hi, I am **Farid Ahmad Khan** – a well-trained, multi-disciplinary tech profes
 
 ---
 
-### 📊 GitHub Stats (Real-time)
+### 📊 GitHub Stats
 
 <!-- These widgets update automatically every time your profile is viewed -->
 <p align="center">
