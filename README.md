@@ -68,6 +68,41 @@ Hi, I am Farid Ahmad Khan – a well‑trained, multi‑disciplinary tech profes
 
 ---
 
+## 👾 Hacking & Cybersecurity Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Penetration%20Testing-85%25-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-90%25-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Network%20Security-80%25-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-65%25-orange?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/CTF%20Player-Intermediate-9cf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010-Expert-red?style=for-the-badge" />
+</p>
+
+**🔧 My Hacking Arsenal**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logo=john-the-ripper&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sqlmap-000000?style=for-the-badge&logo=sqlmap&logoColor=white" />
+</p>
+
+**📊 Hacking Progress**  
+```
+[██████████] 85%  –  Vulnerability Assessment  
+[████████░░] 80%  –  Penetration Testing  
+[███████░░░] 75%  –  Network Security  
+[█████░░░░░] 60%  –  Reverse Engineering  
+[████████░░] 80%  –  Web Application Security  
+```
+*(Self-assessed proficiency levels)*
+
+---
+
 ## Tech Stack
 
 ### Languages
@@ -86,11 +121,6 @@ Hi, I am Farid Ahmad Khan – a well‑trained, multi‑disciplinary tech profes
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Hacking & Security Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 ### Cloud & Deployment
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -192,4 +222,4 @@ Hi, I am Farid Ahmad Khan – a well‑trained, multi‑disciplinary tech profes
 
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=faridahmadkan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />  
-</p>
+</p>  
