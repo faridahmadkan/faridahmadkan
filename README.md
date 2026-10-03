@@ -38,7 +38,7 @@ IDEA  →  BUILD  →  TEST  →  IMPROVE
 ![PHP — learning](https://img.shields.io/badge/PHP-Learning-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **Tools & areas**  
-Python web frameworks · REST APIs · SQLite, MySQL · Git & GitHub · Linux · Docker · Nginx · automation · Telegram bots · server and network fundamentals
+Python web frameworks · REST API integrations · SQLite & MySQL · Git & GitHub · Linux · Docker · Nginx · automation · Telegram bots · server and network fundamentals
 
 ## GitHub activity
 
@@ -71,6 +71,10 @@ I’m especially interested in software that is **clear to use, straightforward 
 ## Currently learning
 
 - **PHP** — building a foundation in the language and its role in web development.
+- **Odoo development with Python** — learning addon structure, models, fields, the ORM, menus, actions, and XML-based views.
+- **Odoo data and access** — PostgreSQL fundamentals, relational data, user groups, access rights, and record rules.
+- **Odoo integrations and UI** — REST/JSON APIs, external-service integrations, QWeb reports, and JavaScript/Owl basics.
+- **Django** — exploring a separate Python web framework and strengthening transferable backend concepts; Django is not a requirement for Odoo development.
 - Software engineering, data structures, and algorithms.
 - Secure development, networking, and deployment practices.
 
